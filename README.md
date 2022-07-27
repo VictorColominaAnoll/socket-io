@@ -12,4 +12,10 @@ The goal of this project is to try out the Socket.io library and learn how to us
 
 ## How to run the project 🔛
 
+### Manually
+
 For both `/server` and `/client` project, you need to access and run `npm start` command.
+
+### Docker 🐳
+
+On the root directory you can run `docker-compose up` command to build the project with Docker. 
